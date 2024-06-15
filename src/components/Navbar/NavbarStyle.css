@@ -65,7 +65,7 @@ nav {
   transition: all 0.4s;
 }
 
-@media screen and (max-width: 900px), screen and (max-height: 900px) {
+@media screen and (max-width: 900px), screen and (max-height: 500px) {
   .mobileNav {
     display: block;
   }
@@ -116,8 +116,8 @@ nav {
     width: 70%;
   }
 
-  ul.pages,
-  ul.socials {
+  .pages,
+  .socials {
     display: flex;
     gap: 1rem;
   }
