@@ -1,5 +1,5 @@
 # React Navbar
-A simple responsive Navbar built using React JS & Vite
+A simple responsive Navbar built using React JS & Vite.
 
 Live Website - https://theblaisecode.github.io/React-Navbar
 
